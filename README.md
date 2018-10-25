@@ -1,1 +1,1 @@
-# scala-html-ediot
+# scala-html-editor
